@@ -1,4 +1,4 @@
 # pomodoro
-Easy pomodoro app focus to-do \n
+Easy pomodoro app focus to-do
 Test
 123
