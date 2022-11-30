@@ -1,9 +1,9 @@
 # pomodoro
-Easy pomodoro app focus to-do
+Simple pomodoro app focus to-do
 
 Created using Python
 
-# Modules:
+### Modules:
 Tkinter
 
 Math
